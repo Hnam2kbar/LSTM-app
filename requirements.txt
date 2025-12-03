@@ -3,3 +3,4 @@ joblib
 # Thêm các gói khác nếu có, ví dụ:
 pandas
 numpy
+tensorflow
